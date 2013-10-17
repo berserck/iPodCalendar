@@ -1,0 +1,6 @@
+[autorun]
+OPEN=SETUP.EXE
+ICON=iPod.ico
+LABEL=iPod
+shell\read1\command=c:\cygwin\bin\bash.exe -lc ". /cygdrive/i/updateIpod.sh"
+shell\read1=&Update iCal
