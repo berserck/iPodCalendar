@@ -1,4 +1,4 @@
-#Synch iPod to Google Calendar 1.0
+# Synch iPod to Google Calendar 1.0
 by Pedro Parracho <pedro.parracho@gmail.com>
 
 ## Description:
