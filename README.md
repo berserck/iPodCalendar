@@ -7,7 +7,7 @@ This is a set of files I use to synchronize the iPod with google calendar.
 ## Install
 To install you need to copy the workflow to the folder `~/Library/Services`.
 
-##Files
+## Files
 * `iPod.ico` - Nice icon when the iPod is mounted  
 * `AUTORUN.INF` - Autorun file, to have the icon and add the "update ICAL" option  when rights clicking over the iPod driver to launch the updateIpdoScript.sh  
 * `updateIpod.sh` - script that retrieves the calendars from google (cygwin version)   
@@ -18,5 +18,4 @@ The script, as is, expects iPod with drive letter I: and cygwin installed in `c:
 Edit the file `updateIpod.sh` to add your URL calendars (ICAL format)
 
 ## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
+Released under MIT License
